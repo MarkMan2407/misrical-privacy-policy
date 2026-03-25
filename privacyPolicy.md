@@ -39,4 +39,4 @@ You may request deletion of your account and associated data at any time by cont
 We reserve the right to make changes to this privacy policy at any time. Any updates will be reflected in the policy linked within the application and on our official distribution channels.
 
 ## Contact Us
-If you have any questions about our privacy policy or our practices related to Misrical, please contact us at misrical@ouikka.com.
+If you have any questions about our privacy policy or our practices related to Misrical, please contact us at support@misrical.com.
